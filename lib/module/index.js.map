@@ -1,0 +1,1 @@
+{"version":3,"names":["multiply","a","b","Promise","resolve"],"sources":["index.tsx"],"sourcesContent":["export function multiply(a: number, b: number): Promise<number> {\n  return Promise.resolve(a * b);\n}\n"],"mappings":"AAAA,OAAO,SAASA,QAAT,CAAkBC,CAAlB,EAA6BC,CAA7B,EAAyD;EAC9D,OAAOC,OAAO,CAACC,OAAR,CAAgBH,CAAC,GAAGC,CAApB,CAAP;AACD"}
